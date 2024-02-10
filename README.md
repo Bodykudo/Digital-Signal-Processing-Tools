@@ -3,7 +3,7 @@
 Welcome to the Digital Signal Processing Tools repository! This collection consists of three PyQt-based projects tailored for digital signal processing tasks.
 
 <div align="center">
-  <img src="assets/mockup.png" height="300px" />
+  <img src="assets/mockup.png" />
 </div>
 
 ## Table of Contents
