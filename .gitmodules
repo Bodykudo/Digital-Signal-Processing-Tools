@@ -1,0 +1,9 @@
+[submodule "Sampling-Studio"]
+	path = Sampling-Studio
+	url = https://github.com/Bodykudo/Sampling-Studio
+[submodule "Digital-Filter-Designer-Suite"]
+	path = Digital-Filter-Designer-Suite
+	url = https://github.com/Bodykudo/Digital-Filter-Designer-Suite
+[submodule "Image-Mixer"]
+	path = Image-Mixer
+	url = https://github.com/Bodykudo/Image-Mixer
